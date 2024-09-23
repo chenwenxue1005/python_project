@@ -43,4 +43,5 @@ while True:
 # 释放摄像头和窗口
 video_capture.release()
 cv2.destroyAllWindows()
-cv2.waitKey()
+cv2.waitKey()123
+44444444
